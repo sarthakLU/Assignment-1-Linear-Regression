@@ -24,3 +24,6 @@ Both X_train and y_train are numpy arrays.
 
 In this practice lab, you will fit the linear regression parameters $(w,b)$ to your dataset.
 The model function for linear regression, which is a function that maps from x (city population) to y (your restaurant's monthly profit for that city) is represented as $f_{w,b}(x) = wx + b$.
+
+GitHub: https://github.com/sarthakLU/Assignment-1-Linear-Regression
+Medium: https://medium.com/@sjadav_53251/assignment-1-4bfab1dd7b1f
